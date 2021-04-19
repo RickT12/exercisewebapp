@@ -9,4 +9,4 @@ To make use of the website full funstionality you must create 3 different user a
 
 ## Installation guide
 
-[](https://www.python.org/downloads/)
+[Python Download](https://www.python.org/downloads/)
