@@ -10,3 +10,11 @@ To make use of the website full funstionality you must create 3 different user a
 ## Installation guide
 
 [Python Download](https://www.python.org/downloads/)
+
+
+1. To begin with, install Python for your operating system using the link above.
+2. Next, download our project file called “teamproject21”(ask Anthony where it will be )
+3. Open the command prompt, this can be done by typing “cmd” in the search bar if you are on windows.
+4. Save the project file to your desktop.
+5.Locate the project file and open up teamproject21.
+6. Click to the right of your file name until it is highlighted as shown below and copy it.
