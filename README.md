@@ -62,13 +62,13 @@ To make use of the website full funstionality you must create 3 different user a
 ![](teamproject21/exercisewebapp/images/installGuide12.png)
 
 17. You will now have to install some packages in order to get the local host server up. After every installation, type in “flask run” to bring up the next package to be installed. The commands include: (press enter after every command and let it install before typing “flask run”)
-	*”pip install flask_sqlalchemy”
-	*”pip install flask_bcrypt”
-	*”pip install flask_login”
-	*”pip install flask_wtf”
-	*”pip install email_validator”
-	*”pip install pandas” (this may take longer than the rest)
-	*”pip install plotly”
+	1. ”pip install flask_sqlalchemy”
+	2. ”pip install flask_bcrypt”
+	3. ”pip install flask_login”
+	4. ”pip install flask_wtf”
+	5. ”pip install email_validator”
+	6. ”pip install pandas” (this may take longer than the rest)
+	7. ”pip install plotly”
   
 18. After installing all the packages type “flask run” in the cmd. The server should now be up and running. To view the website copy and paste the http address into your browser as shown below.
 
